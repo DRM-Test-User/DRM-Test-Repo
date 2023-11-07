@@ -1,0 +1,13 @@
+{
+  "name": "DRM-Test-Repo",
+  "license": "MIT",
+  "description": "DRM-Test-Repo",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "test": "echo"
+  },
+  "dependencies": {
+    "web3": "1.7.4"
+  }
+}
